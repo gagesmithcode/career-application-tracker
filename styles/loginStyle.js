@@ -8,6 +8,7 @@ export default StyleSheet.create({
   },
   inputContainer: {
     width: '80%',
+    paddingTop: '50%',
   },
   input: {
     backgroundColor: 'white',
